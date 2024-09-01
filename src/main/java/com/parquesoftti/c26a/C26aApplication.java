@@ -1,4 +1,4 @@
-package com.parquesoftti.c26a.service;
+package com.parquesoftti.c26a;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
